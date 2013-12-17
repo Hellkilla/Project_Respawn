@@ -19,3 +19,9 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+
+
+#UNITY Temporary Folders/CSProject stuff
+[Tt]emp/
+*.csproj
+*.sln
